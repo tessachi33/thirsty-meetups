@@ -1,0 +1,52 @@
+[
+    {
+        "name": "Delight Conference",
+        "time": "8:30amWednesday, October 7 at 5:30pm",
+        "location": "Portland Art Museum: Kridel Grand Ballroom"
+    },
+    {
+        "name": "Portland 1 Million Cups",
+        "time": "8:30am",
+        "location": "Deskhub"
+    },
+    {
+        "name": "Money on a Mission",
+        "time": "4:307:30pm",
+        "location": "The Evergreen -"
+    },
+    {
+        "name": "Homebrew Website Club PDX",
+        "time": "5:307:30pm",
+        "location": "Beulahland"
+    },
+    {
+        "name": "ChickTech's Scrum Workshop",
+        "time": "5:308:30pm",
+        "location": "DeskHub"
+    },
+    {
+        "name": "PDXRust Monthly Meeting",
+        "time": "68pm",
+        "location": "Mozilla"
+    },
+    {
+        "name": "Ruby Book Club",
+        "time": "67:30pm",
+        "location": "Renewable Funding"
+    },
+    {
+        "name": "Maker Meetup",
+        "time": "69pm",
+        "location": "Watershed PDX"
+    },
+    {
+        "name": "CHIFOO Meeting: Games that Change Us (For the Better!)",
+        "time": "78:30pm",
+        "location": "eBay Community Lounge"
+    },
+    {
+        "name": "OWASP Chapter Planning Meeting",
+        "time": "79pm",
+        "location": "Mama Mia Trattoria "
+    }
+]
