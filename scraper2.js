@@ -9,7 +9,8 @@ x('http://www.calagator.org', '#whats_happening div.list_content', [{
   endTime: 'time.dtend @datetime',
   link: 'a@href',
   details: x('a@href', {
-    address: 'div.street-address',
+    streetAddress: 'div.street-address',
+    locality: 'span.locality',
     description: 'div.description'
   })
 
