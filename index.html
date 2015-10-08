@@ -1,17 +1,53 @@
-<!DOCTYPE html>
+<<!DOCTYPE html>
 <html>
 <head>
-  <link href="css/bootstrap.css" rel="stylesheet" type="text/css">
-  <link href="css/styles.css" rel="stylesheet" type="text/css">
-  <script src="https://maps.googleapis.com/maps/api/js"></script>
-  <script src="js/jquery-1.11.3.js"></script>
-  <script src="js/map.js"></script>
-  <title>TITLE GOES HERE</title>
+  <script src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
+  <script src="js/map.js"></script>F
+  <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" rel="stylesheet" integrity="sha256-MfvZlkHCEqatNoGiOXveE8FIwMzZg4W85qfrfIFBfYc= sha512-dTfge/zgoMYpP7QbHy4gWMEGsbsdZeCXz7irItjcC3sPUFtf0kuFbDz/ixG7ArTxmDjLXDmezHubeNikyKGVyQ==" crossorigin="anonymous">
+  <link rel="stylesheet" type="text/css" href="css/styles.css">
+
+<title>Thirsty Meetup</title>
 </head>
-<body onload="initialize()">
-  <div class="container">
-    <h1>Map</h1>
-    <div id="map"></div>
-  </div>
+<body>
+  <nav>
+    <ul class="navigation">
+      <li data-slide="1"><a href="a">Slide1</a></li>
+      <li data-slide="2"><a href="a">Slide2</a></li>
+      <li data-slide="3"><a href="a">Slide3</a></li>
+      <li data-slide="4"><a href="a">Slide4</a></li>
+    </ul>
+    </nav>
+
+    <div class="main">
+      <div class="slide" id="slide1" data-slide="1" data-stellar-background-ratio="0.5">
+        <div class="container">
+          <div class="row">
+          <div class="col-md-6 slide-1-logo">
+            <img src ="img/logo.png" class="mainimg">
+            </div>
+             <div class="col-md-6">
+            <h1>welcome y'all</h1>
+          </div>
+        </div>
+      </div>
+        <a class="button" data-slide="2" title=''></a>
+    </div>
+
+      <div class="slide" id="slide2" data-slide="2" data-stellar-background-ratio="0.5">
+          <a class="button" data-slide="3" title=''></a>
+    </div>
+
+
+      <div class="slide" id="slide3" data-slide="3" data-stellar-background-ratio="0.5">
+          <a class="button" data-slide="4" title=''></a>
+      </div>
+
+
+      <div class="slide" id="slide4" data-slide="4" data-stellar-background-ratio="0.5">
+     </div>
+</div>
+
+
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js" integrity="sha256-Sk3nkD6mLTMOF0EOpNtsIry+s1CsaqQC1rVLTAy+0yc= sha512-K1qjQ+NcF2TYO/eI3M6v8EiNYZfA95pQumfvcVrTHtwQVDG+aHRqLi/ETn2uB+1JqwYqVG3LIvdm9lj6imS/pQ==" crossorigin="anonymous"></script>
 </body>
 </html>
