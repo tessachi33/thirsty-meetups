@@ -1,0 +1,575 @@
+[
+  {
+    "name": "Delight Conference",
+    "venue": "Portland Art Museum: Kridel Grand Ballroom",
+    "startTime": "2015-10-05T08:30:00",
+    "endTime": "2015-10-07T17:30:00",
+    "link": "http://calagator.org/events/1250468562",
+    "details": {
+      "address": "1119 SW Park Ave",
+      "description": "\n    Join us October 5-7 at the Portland Art Museum for a unique conference for people passionate about creating experiences people love. Delight 2015 features two days of keynotes, case study presentations, and hands-on workshops from leaders at brands like Twitter, Fidelity Investments, Airbnb, Virgin America, Intuit, Zappos, and more! The third day is an exclusive patient experience healthcare intensive with Peter Jones, author of Design for Care.\n\nWhen: October 5-7, 2015 | 8:30 am – 5:30 pm\n\nWhere: Portland Art Museum | 1219 SW Park Ave Portland, OR 97205\n\nWho: Designers, marketers, developers, digital strategists and more are welcome! If you care about creating and delivering great customer experiences, this conference is for you.\n\nPrice: $699 through 7/31 ($599/person for groups of 4+)\n\nFind out more and register on the Delight 2015 site. http://delight.us/conference\n  "
+    }
+  },
+  {
+    "name": "Portland 1 Million Cups",
+    "venue": "Deskhub",
+    "startTime": "2015-10-07T08:30:00",
+    "link": "http://calagator.org/events/1250469051",
+    "details": {
+      "address": "334 NW 11th Ave, Portland, OR, US",
+      "description": "\n    Every week we have a new local entrepreneur building an amazing company here in Portland. They give a short presentation followed up with a great Q&A session where you get to ask questions and ask about the real challenges and triumphs behind the business.\n\n\n As always we welcome everyone interested in startups and founders building great companies here in Portland. Come and check it out and bring a friend.\n  "
+    }
+  },
+  {
+    "name": "Money on a Mission",
+    "venue": "The Evergreen -",
+    "startTime": "2015-10-07T16:30:00",
+    "endTime": "2015-10-07T19:30:00",
+    "link": "http://calagator.org/events/1250469061",
+    "details": {
+      "address": "618 Southeast Alder Street",
+      "description": "\n    A community gathering to connect business owners and social entrepreneurs with local lenders and technical assistance providers. Featuring Beneficial State Bank’s Kat Taylor and Governor Kate Brown.\n\n*Admission is free, but space is limited. Register now: http://beneficialstate.org/moam/\n  "
+    }
+  },
+  {
+    "name": "Homebrew Website Club PDX",
+    "venue": "Beulahland",
+    "startTime": "2015-10-07T17:30:00",
+    "endTime": "2015-10-07T19:30:00",
+    "link": "http://calagator.org/events/1250469097",
+    "details": {
+      "address": "118 NE 28th Ave",
+      "description": "\n    Hack night edition! Are you building your own website? Indie reader? Personal publishing web app? Or some other digital magic-cloud proxy? If so, come on by and join a gathering of people with likeminded interests. Bring your friends that want to start a personal web site. Exchange information, swap ideas, talk shop, or help work on a project!\n  "
+    }
+  },
+  {
+    "name": "ChickTech's Scrum Workshop",
+    "venue": "DeskHub",
+    "startTime": "2015-10-07T17:30:00",
+    "endTime": "2015-10-07T20:30:00",
+    "link": "http://calagator.org/events/1250469136",
+    "details": {
+      "address": "334 Northwest 11th Avenue",
+      "description": "\n    Come to ChickTech’s Scrum Workshop to get a refresher or an introduction to the world of Scrum. For two Wednesday evenings in a row, you will go through the core aspects of the Scrum Framework. This includes why Scrum works, the key players on each Scrum team, and how product development occurs within Scrum.\n\nRegistration for this event includes both workshop sessions. You can register for the event via Eventbrite.\n\nScrum is an agile way to manage a project, usually software development. Agile software development with Scrum is often perceived as a methodology; but rather than viewing Scrum as methodology, think of it as a framework for managing a process. -Mountain Goat Software\n\nThe Instructor: Austin Richter, Scrum Master\nAustin, a Certified Scrum Master, has been working within the Scrum Framework for two years. Before that he worked as Project Coordinator on a team that was transitioning from a Waterfall approach to Scrum.\n\nSession 1, September 30th: Introduction to Scrum and Building a Backlog \nThe first session will offer an overview/refresher of the Scrum Framework. In this workshop we will explore the differences betwen a Waterfall approach and the Scrum Framework. This will highlight the importance of feedback to a team. We will demonstrate these concepts by constructing a bridge and building backlogs. During the building a backlog activity we will explore the three roles on the Scrum Team.\n\nSession 2, October 7th: Sprint Simulation \nIn this workshop you will build something for a customer using the Scrum process. Through this exercise you will go through each step of the Scrum process and produce the necessary artifacts to be successful in a given Sprint. From building a task board to demonstrating your product to the stakeholders, you will be immersed into the scrum process during the Sprint Simulation.\n\nBy the end of this workshop series you'll have a comprehensive understanding of Scrum.\n\nPart of ChickTech’s mission is to retain women in technology. We intend for this event to build community and add skills to resumes. We encourage anyone who wants to practice the Scrum workflow to register for this event!\n\nDates: September 30th and October 7th\n\nTime: Doors open at 5:30pm and close around 8:30pm. The sessions will run 6-8pm\n\nLocation:\nDeskHub \n334 NW 11th Ave\nPortland, OR 97209\n\nRegistration pays for dinner both evenings, along with the class costs. Any amount left over supports ChickTech: High School.\n\nA big thank you to our event location provider, DeskHub!\n\nChickTech: Career events are open to all genders with a focus on women.\n  "
+    }
+  },
+  {
+    "name": "PDXRust Monthly Meeting",
+    "venue": "Mozilla",
+    "startTime": "2015-10-07T18:00:00",
+    "endTime": "2015-10-07T20:00:00",
+    "link": "http://calagator.org/events/1250469103",
+    "details": {
+      "address": "1120 NW Couch St., Suite 320",
+      "description": "\n    Are you a Rust expert? Have you played with Rust a bit and told yourself you really should write more code in it, but never made the time? Do you just like learning about cool new programming languages? If any of these apply to you, come to the PDXRust meetup to learn more and meet others with similar interests!\n\nThis meetup occurs on the first Wednesday of every month, from 6-8pm.\n\nOctober's meeting will be at Mozilla's Portland space.\n\nWhat will happen at the meetup? Good question! That's largely up to attendees!\n\nWe start with 30-50 minutes of lightning talks from anyone who:\n\n• Has built something in Rust that they want to share,\n\n• Wants to build something in Rust and is seeking feedback and collaborators, or\n\n• Has learned something cool about Rust that they think would be useful to others.\n\nAfter the lightning talks, we have about an hour of hack time so you can sit down and work on your Rust project in a room full of others who enjoy the language.\n\nJoin us in #pdxrust on irc.freenode.net (http://webchat.freenode.net/) with any feedback about what you'd like to see!\n\nRemember that Rust's Code of Conduct applies to this event.\n\nLogistics:\n\nParking near the building can be scarce. The Mozilla office is close to the 11th&Couch stop and 10th&Couch stop on the NS streetcar line, and within walking distance of several bus lines. Covered bike parking is available in the courtyard that you cross to get to Mozilla's building, across from the Peet's Coffee and Tea seating area.\n\nThe building is mostly wheelchair-accessible, in that there are no unavoidable stairs and the outside door has an automatic opening switch. Restroom doors on the 3rd floor and Mozilla office door are not automatic.\n\nFood is not yet planned for the event. If your company would like to sponsor food for the meeting, let edunham know (rustpdx@edunham.net, or IRC).\n  "
+    }
+  },
+  {
+    "name": "Ruby Book Club",
+    "venue": "Renewable Funding",
+    "startTime": "2015-10-07T18:00:00",
+    "endTime": "2015-10-07T19:30:00",
+    "link": "http://calagator.org/events/1250469143",
+    "details": {
+      "address": "400 SW 6th Avenue, Suite 902",
+      "description": "\n    Reading through technical books in a group is a great way to learn. You can stay motivated by reading together; better apply what you are reading by actively communicating it, as well as hearing others perspectives that will help you better understand the book. Even if you're a more experienced developer it's a great way to keep your skill sharp and share your wisdom and experience. If none of that is convincing just come and have fun with fellow ruby developers!\n\nWe are starting a new book Working With Ruby Threads by Jesse Storimer. We will be discussing chapters 10-14 ('Signaling Threads with Condition Variables' - 'Thread Safety in Rails').\n\nPlease come having read the chapters and ready to discuss it.\n\nPizza will be provided!\n\nBook Summary\n\nThreading and concurrency are hot topics in the Ruby community.\nWant to join the conversation?\n\nYou've probably heard people around you talking mutexes, race conditions, or the GIL. Do you wonder what the heck they're talking about?\n\nThis book is a gentle introduction to these concepts and will give you the knowledge you need to become your teams resident concurrency expert.\n  "
+    }
+  },
+  {
+    "name": "Maker Meetup",
+    "venue": "Watershed PDX",
+    "startTime": "2015-10-07T18:00:00",
+    "endTime": "2015-10-07T21:00:00",
+    "link": "http://calagator.org/events/1250469181",
+    "details": {
+      "address": "5040 SE Milwaukie Ave",
+      "description": "\n    Make it here! Have some projects you'd like to work on, but could benefit from a creative atmosphere? Cat and Watershed PDX team up to offer just the space!\n\nWe will supply wifi, and a place to share ideas and collaborate with a community of fellow creators and makers. We'll share tips and tricks, and support your creative endeavors! The goal for the meetup is to support the local creative scene while providing an opportunity for people to build a network with people of varied skills. Makers, crafters, and creators of all ages, skill levels, and backgrounds are encouraged to bring your projects, supplies, and ideas.\n\nFrom sewing to electronics to art projects, this will be an incubator for interesting collaborations. For example, if someone comes in to work on an embroidery project, another could show them how to incorporate conductive thread and LEDs to make that project light up. Tips and tricks that can be shared varied depending on who comes to the event. Things shared at previous events include working with Arduino, programming, sculpting, knitting, hand sewing, misc hobbyist electronics tips from component suppliers to soldering tricks.\n\nAll attendees will need to sign-in with Cat before entering the meetup space. All information will be kept confidential.\n\nBy attending this event you agree that neither Watershed nor myself is liable for any injury you may receive while working on your project, and that you will follow the Code of Conduct.\n  "
+    }
+  },
+  {
+    "name": "CHIFOO Meeting: Games that Change Us (For the Better!)",
+    "venue": "eBay Community Lounge",
+    "startTime": "2015-10-07T19:00:00",
+    "endTime": "2015-10-07T20:30:00",
+    "link": "http://calagator.org/events/1250467637",
+    "details": {
+      "address": "1400 SW 5th Avenue, 3rd Floor",
+      "description": "\n    “Games that Change Us (For the Better!)” with Emily Treat, Games for Change\n\nEmily regularly facilitates the creation and distribution of social impact games that serve as critical tools in humanitarian and educational efforts. Come listen in as she shares her experience and views as an expert game design instructor, game development advisor and game interaction designer, about behind-the-scenes techniques for creating games that really make a difference in the world.\n  "
+    }
+  },
+  {
+    "name": "OWASP Chapter Planning Meeting",
+    "venue": "Mama Mia Trattoria ",
+    "startTime": "2015-10-07T19:00:00",
+    "endTime": "2015-10-07T21:00:00",
+    "link": "http://calagator.org/events/1250469114",
+    "details": {
+      "address": "439 SW 2nd Ave",
+      "description": "\n    This is a planning meeting for the Portland OWASP chapter.  Please join us if you are interested in helping us plan and organize the activities of the chapter for the next year.\n\nPlease RSVP if you plan on showing up.  Just shoot an email to\n\n( tim DOT morgan AT owasp DOT org )\n\nSome  of the topics we expect to discuss at this meeting:\n\n\nSummary of AppSecUSA\nLeads on speakers for Chapter Meetings\nFLOSSHack events\nA Possible Training Day\nLong term group leadership and governance\nYOUR ideas\n\n\n\n\n\n\nThe Open Web Application Security Project (OWASP) is a 501c3 not-for-profit worldwide charitable organization focused on improving the security of application software. To sign up for future meeting notes and to discuss security topics with local gurus, sign up on the OWASP Portland mailing list: https://lists.owasp.org/mailman/listinfo/owasp-portland\n\nMeetings are free and open to the public.\n  "
+    }
+  },
+  {
+    "name": "Ruby/Rails Coworking SE",
+    "venue": "Crema Bakery & Cafe",
+    "startTime": "2015-10-08T08:30:00",
+    "endTime": "2015-10-08T12:30:00",
+    "link": "http://calagator.org/events/1250469176",
+    "details": {
+      "address": "2728 SE Ankeny St.",
+      "description": "\n    An informal gathering of Ruby/Rails developers, working alongside each other at various coffeeshops in SE Portland. Join us!\n  "
+    }
+  },
+  {
+    "name": "Pitch Perfect Hillsboro: Practice Pitch & Startup Mixer",
+    "venue": "Hillsboro Chamber of Commerce",
+    "startTime": "2015-10-08T16:30:00",
+    "endTime": "2015-10-08T18:30:00",
+    "link": "http://calagator.org/events/1250469162",
+    "details": {
+      "address": "5193 NE Elam Young Pkwy, Suite A",
+      "description": "\n    The Hillsboro Chamber is excited to announce our first startup practice pitch through Pitch Perfect Hillsboro featuring Distributed BioSystems, Inc. Join us THIS Thursday, October 8th from 4:30-6:30 pm to support this local startup. Attendees enjoy networking, pitch, and Q&A session. This event is FREE, though RSVP's are necessary to prepare so if you intend on going, please RSVP to AimeeS@hillchamber.org.  Snacks & drinks included.\n\nWhat: Startup Practice Pitch & Networking\nWhere: Hillsboro Chamber of Commerce, 5193 NE Elam Young Pkwy Ste A 97124\nWhen: Thursday, October 8th from 4:30-6:30 pm\nCost:   Free\nRSVP: AimeeS@hillchamber.org\n\nPitch Perfect Hillsboro allows startups to reserve the Chamber classroom on the 2nd Thursday of the month from 4:30-6:30 to work on a project, network, and/or pitch their company. This program is free and open to any startup whether east or westside. One week's notice and reservation is required to staff the office. Inquiries can be made to Aimee Sukol.\n  "
+    }
+  },
+  {
+    "name": "Epicodus Alumni: Freelancing Panel",
+    "venue": "Epicodus",
+    "startTime": "2015-10-08T17:00:00",
+    "endTime": "2015-10-08T18:30:00",
+    "link": "http://calagator.org/events/1250469152",
+    "details": {
+      "address": "208 SW 5th Ave",
+      "description": "\n    5:00 networking/announcements\n5:30-6:30 freelancing panel with Mac Eisenberg (former Epicodus instructor), Jenny Olsen, Duane Moody (Epicodus Ruby Winter 15 class) & Laura Pelofske\n  "
+    }
+  },
+  {
+    "name": "TiE Oregon Pitch Club Featuring Brent Hieggelke",
+    "venue": "DeskHub",
+    "startTime": "2015-10-08T17:30:00",
+    "endTime": "2015-10-08T20:30:00",
+    "link": "http://calagator.org/events/1250469115",
+    "details": {
+      "address": "334 Northwest 11th Avenue",
+      "description": "\n    COST: TiE Members: FREE, Public: $25\n\nJoin us for another edition of TiE Oregon Pitch Club, the most educational pitch clinic in town! Our featured speaker for this edition is Brent Hieggelke.\n\nBrent Hieggelke is the Chief Mobile Evangelist for Urban Airship and is responsible for uncovering and inspiring innovation with customers, app development and agency partners, mobile platform providers and the industry-at-large.\n\nBefore Urban Airship, Brent spent more than a decade helping brands optimize digital marketing initiatives in Marketing Executive positions at WebTrends, TouchClarity and Omniture. Most recently, Brent founded and launched Second Porch, the first Facebook-integrated social vacation rental site that was sold to HomeAway, Inc. in May 2011. Early in his career, Brent also co-founded New City, a media company in Chicago.\n\nBrent has been awarded multiple marketing awards, and is a frequent speaker at both marketing and digital conferences. He is a member of the Mobile Marketing Association’s North America board and the International Executive Council of the Internet Marketing Association.\n\nOnce Brent is finished speaking, you will have the opportunity to practice your pitches with us. You can practice  investor pitches, concept pitches, sales pitches, co-founder pitches, product pitches, elevator pitches, or any other pitch you can think of. Bring your  pitch and pitch deck to receive actionable and valuable feedback from fellow entrepreneurs who have been through it or are going through it. You never know, there may be an investor or two sprinkled throughout the crowd.\n\nNot fully comfortable pitching? Come be part of the audience and learn by watching and providing feedback to others. However, it pays not to just be a watcher; you will definitely get the most benefit from this event by getting up and practicing your pitch! Many went before you, lived to tell the tale (we don’t bite!) and got a lot of actionable feedback!\n  "
+    }
+  },
+  {
+    "name": "Haskell Office Hours",
+    "venue": "Galois Inc",
+    "startTime": "2015-10-08T17:30:00",
+    "link": "http://calagator.org/events/1250469177",
+    "details": {
+      "address": "421 Sw 6th Ave Ste 300",
+      "description": "\n    Welcome to Portland Haskell Office Hours! Bring your projects, or just your excitement for learning.\n\n\n We will still be taking feedback on the format of the meetup, the scheduling, and anything else that will help make this a valuable resource for you. If you are not able to attend, let us know if there's anything we can do to help make it work in the future. As before, the front door of the building will lock at 6pm; if you get locked out, contact us via Meetup, and we'll let you in. -- About Haskell Office Hours: Show up with a project you'd like to share or a problem that you're stuck on, and we'll learn together in small, supportive groups! An \"Office Hours\" meetup is an opportunity for people of all skill levels to come together, learn, and have fun. Our goal is to focus on inclusion and active participation through teaching and mentorship. The meetup is hosted at Galois, which uses Haskell extensively in industry, and is well-attended by Galwegians who are eager to share their excitement for Haskell and functional programming. This group is very new, so you still have an opportunity to shape how we do things. If the schedule doesn't work for you, or if we can do anything to help you feel more safe and welcome, let us know!\n  "
+    }
+  },
+  {
+    "name": "ProductTank October",
+    "venue": "Jama Software (New Office)",
+    "startTime": "2015-10-08T18:00:00",
+    "endTime": "2015-10-08T20:00:00",
+    "link": "http://calagator.org/events/1250469147",
+    "details": {
+      "address": "135 SW Taylor Suite 200",
+      "description": "\n    We're launching ProductTank here in PDX! ProductTank is an opportunity for Product professionals to learn and network. For our first meetup, we have a great speaker lined up and hopefully one more to announce!\n\nSamuel Hulick\n\nGrowing Your User Base with Better Onboarding\n\nFrustration drives people to sign up for products in hopes of improving their lives. The space between the intolerable “before” and the ideal “after” is your project’s “improvement trajectory.” And once this is defined, it’s easier to identify key moments in the customer journey and match them to design patterns.\n\nSamuel shares strategies that help you stop hemorrhaging signups. You’ll learn to create quality onboarding experiences that target your users’ frustrations and move them from A to B in their lives, instead of just A to B in your app.\n\nAbout Samuel\n\nSamuel Hulick runs UserOnboard.com and is the author of The Elements of User Onboarding. He’s combined UX savvy and a cat-like curiosity for measuring UX impact to become an expert in onboarding. His approach is shaped by over a decade of web experience, theories taken from behavioral psychology, cognitive development, video game design, and even filmmaking.\n  "
+    }
+  },
+  {
+    "name": "DesignSpeaks Presents: Peak Performance",
+    "venue": "52 Limited",
+    "startTime": "2015-10-08T18:00:00",
+    "endTime": "2015-10-08T21:00:00",
+    "link": "http://calagator.org/events/1250469155",
+    "details": {
+      "address": "330 SE Martin Luther King Jr. Boulevard",
+      "description": "\n    DESIGNSPEAKS exists to explore design within the multidisciplinary: architecture, brand, communications, experience, film, fashion, graphic, industrial. We establish an interface within the context of real life, supporting the most compelling regional voices in design, and talk through to the heart of the practice.\n\nPEAK PERFORMANCE\nData, Design, and Driving the Future\nOctober 8, 2015\n7 to 9 pm / 52 Limited\nModerated by Tony Thacker\n\nTony Thacker is a longtime auto industry authority, author and book publisher based in Los Angeles. Most recently, Tony was Executive Director of the World of Speed, an educational motorsports-themed museum, in Wilsonville. He served as executive director of the Wally Parks NHRA Motorsports Museum in Pomona and the marketing director for the famed SO-CAL Speed Shop for 10 years.\n\nLed by the enigmatic Tony Thacker, consider this a glimpse into a not-so-distant future of driverless cars negotiating rush hour traffic and carless drivers using augmented reality.\n\nWe’ll trace the path of Salem-based Nick McMillen from passionate video gamer to professional racecar driver and learn how the virtual and augmented training environments being pioneered by Keith Maher in Hillsboro give drivers like McMillen an edge on the track.\n\nThen we'll take on engineering feats from self-driving trucks to land speed motorcycle design with Daimler Trucks North America's former vehicle dynamics manager Matt Markstaller and contemplate the future of automotive design with Aaron Pizzuti, a former design manager at Chrysler. From Pikes Peak to peak performance, where is technology taking us and who exactly is in the driver's seat?\n\nDoors open at 6 pm. Come early for food, drinks and virtual reality demos. Your ticket includes the presentation, dinner, hosted bar, and a limited edition poster.\n\nWith Panelists:\n\nKeith Maher is a leading authority in automotive simulation - from programming to podiums, he provides custom simulation solutions to automotive problems. With 22 years in high technology and a motorsports obsession, he founded Maher Solutions, LLC to help people in the automotive industry achieve their goals through simulation.\n\nMatt Markstaller is a mechanical engineer who has worked in various capacities for Daimler Trucks North America for 27 years. He designed and built numerous prototype vehicles including Pikes Peak Hill Climb trucks, test facilities, and wind tunnels. By night, he designs and builds vehicles from open road racers to Bonneville record streamliners.\n\nNick McMillen is a professional racing driver for Nissan. Born in Salem, he took an unconventional path to professional driving by winning the 2013 GT Academy, an international virtual-to-reality contest that allows the best Gran Turismo players to compete for the opportunity to become professional drivers. He won the Dubai 24 and Silverstone in 2014.\n\nAaron Pizzuti is a designer specializing in automotive, footwear and consumer product design and creative direction. Following a life long passion for both automobiles and art, he spent nine years at Chrysler as design manager and senior product designer. He's currently Creative Director at Under Armour in Portland.\n  "
+    }
+  },
+  {
+    "name": "Techies on Bikes - Eat, Drink, Bike!",
+    "venue": "Velo Cult",
+    "startTime": "2015-10-08T18:30:00",
+    "endTime": "2015-10-08T21:00:00",
+    "link": "http://calagator.org/events/1250469157",
+    "details": {
+      "address": "1969 NE 42nd Ave",
+      "description": "\n    ~$ sudo come -meet -new -friends while [ imbibe craft -beer && eat;  $BIKE]\n\nSchedule:\n\n6:30-7:45PM: BYTE good food and choose from an ARRAY of drinks;\n\n7:45-8:00PM: Offer ideas to places you'd like to bike to and form ride groups;\n\n8:00-9:00PM: Bike and gain READ & WRITE PERMISSIONS to cycling laughter!\n  "
+    }
+  },
+  {
+    "name": "Portland Perl Mongers - ORM Wars",
+    "venue": "Free Geek",
+    "startTime": "2015-10-08T18:53:00",
+    "endTime": "2015-10-08T19:53:00",
+    "link": "http://calagator.org/events/1250469149",
+    "details": {
+      "address": "1731 SE 10th Avenue",
+      "description": "\n    A long time ago in a community far away ...\n\nThis month, Matt S Trout is in town and will be speaking on the history and future of DBIx::Class.\n\nAs always, join us afterwards at the SE Lucky Lab for drinks and more conversation.\n  "
+    }
+  },
+  {
+    "name": "TAO's Battle of the Tech Bands",
+    "venue": "Mississippi Studios",
+    "startTime": "2015-10-08T19:00:00",
+    "endTime": "2015-10-08T23:00:00",
+    "link": "http://calagator.org/events/1250469066",
+    "details": {
+      "description": "\n    TAO’s Battle of the Tech Bands (BxB) is a musical tussle between the local industry's most melodious members! This is your chance to mingle with your peers and get down to the creative talent that keeps the PDX tech community rocking here in the Silicon Forest!\n\nThis event showcases two of the best parts of Portland's Culture: music & tech. TAO member companies take the stage to compete for Portland's best tech band. A crowd of over 300 from the TAO community & beyond will assemble to cheer on their favorite bands and company. This event is a great way to increase community connectedness and promote Portland's unique corporate culture.\n  "
+    }
+  },
+  {
+    "name": "How to go from Airport Baggage Agent to Professional Developer in Weeks (Not Years)",
+    "venue": "Code Fellows PDX",
+    "startTime": "2015-10-08T19:00:00",
+    "endTime": "2015-10-08T20:30:00",
+    "link": "http://calagator.org/events/1250469109",
+    "details": {
+      "address": "920 SW Third Ave., Floor 2",
+      "description": "\n    How will you change your career through Code Fellows? Come hear from US Navy veteran Ron Floyd, who went from airport baggage agent to professional web developer with a Code Fellows bootcamp.\n\nYou'll get to talk to Ron about his career switch and find out how you can do the same.\n\nRSVP here: http://www.codefellows.org/events-calendar#pdx-october-info-session\n  "
+    }
+  },
+  {
+    "name": "CTRL-H Open House",
+    "venue": "CTRLH - PDX Hackerspace",
+    "startTime": "2015-10-08T19:00:00",
+    "link": "http://calagator.org/events/1250469160",
+    "details": {
+      "address": "7608 N Interstate Ave",
+      "description": "\n    Thursdays are open house night here at CTRL-H. This is when members gather and can open the door for you. We know we can be there by 7:00PM, but most of the time we are hours early. We don't have an opening ceremony or any formal meeting. This is a time for you to eavesdrop on other peoples projects and get support on a project that you may need help with. Bring your inventions, your technical toys and your broken microwave to CTRL-H and Hack with friends.\n\n  "
+    }
+  },
+  {
+    "name": "Tech Talk, The Tech Academy",
+    "venue": "The Tech Academy",
+    "startTime": "2015-10-09T13:30:00",
+    "endTime": "2015-10-09T14:30:00",
+    "link": "http://calagator.org/events/1250469088",
+    "details": {
+      "address": "310 SW 4th Ave Suite 310",
+      "description": "\n    Free Geek will be delivering a tech talk!\n  "
+    }
+  },
+  {
+    "name": "PyDX Community Python Conference",
+    "venue": "White Stag Block (University of Oregon)",
+    "startTime": "2015-10-10T08:30:00",
+    "endTime": "2015-10-11T16:30:00",
+    "link": "http://calagator.org/events/1250468982",
+    "details": {
+      "address": "70 NW Couch St.",
+      "description": "\n    Join your friends in the Cascadia Python community for two days of learning and connection. Meet new people and learn about the interesting Pythonic work being done around here. Make the Pacific Northwest an even better place to be a Python programmer.\n\nKeynotes, fantastic speakers, and price of ticket includes a BoF dinner on Saturday.\n\nTickets available through the PyDX website! And can be bought at the door.\n\nCheck out the schedule too.\n  "
+    }
+  },
+  {
+    "name": "CAT BarCamp",
+    "venue": "Portland State University Engineering Building",
+    "startTime": "2015-10-10T08:30:00",
+    "endTime": "2015-10-10T18:00:00",
+    "link": "http://calagator.org/events/1250469052",
+    "details": {
+      "address": "1930 SW 4th Ave",
+      "description": "\n    BarCamps are free unconferences where the people who show up on the day of the conference decide what the conference is about. It has been shown time and time again to produce some of the best material available. The spontaneity of the entire event stands in stark contrast to the more planned conferences you may have been to. Essentially the entire conference is a hallway track, and many people feel it’s the best quality of BarCamps!\n\nThe CAT at PSU is an ops training organization that has secured the venue and is organizing the event. We expect many job-hungry students skilled in development, computer science, operations, and everything else to be in attendance at this event and we want to enable as many connections as possible.\n\nAlthough registration is not required please RSVP at https://goo.gl/Bf9ttp so that our organizers can plan accordingly.\n  "
+    }
+  },
+  {
+    "name": "Portland Startup Summit III: The Social Good",
+    "venue": "Holocene",
+    "startTime": "2015-10-10T11:00:00",
+    "endTime": "2015-10-10T19:00:00",
+    "link": "http://calagator.org/events/1250468757",
+    "details": {
+      "address": "1001 SE Morrison St",
+      "description": "\n    Portland Startup Summit is a summit for Portland startups.\n\nJoin us for our fall summit, focused on The Social Good. The summit takes place Saturday, October 10, from 11 AM - 7 PM.\n\nSpeakers and special guests will focus on ways that startups can build and support communities, solve real-world problems, and make the world a better place.\n\nRegister now and join our online community:\nhttps://events.bizzabo.com/pss3\n  "
+    }
+  },
+  {
+    "name": "Pacific NW Software Quality Conference",
+    "venue": "World Trade Center",
+    "startTime": "2015-10-12T08:00:00",
+    "endTime": "2015-10-14T18:00:00",
+    "link": "http://calagator.org/events/1250469113",
+    "details": {
+      "address": "121 SW Salmon",
+      "description": "\n    PNSQC has a strong Pacific Northwest region attendance profile with a substantial proportion of national and international presenters and invited speakers.\n\nThe conference attracts a diverse audience and is considered a “must attend” event for software product managers, quality professionals, Agilists, managers, contractors, consultants, customers, developer-testers, tester-developers, and maintenance engineers.\n\nPNSQC Mission: Enable knowledge exchange to produce higher quality software.\n  "
+    }
+  },
+  {
+    "name": "FutureTalk with Ron Evans + Happy Half-Hour",
+    "venue": "New Relic",
+    "startTime": "2015-10-12T18:00:00",
+    "endTime": "2015-10-12T19:00:00",
+    "link": "http://calagator.org/events/1250469141",
+    "details": {
+      "address": "111 SW 5th Avenue, Suite 2900",
+      "description": "\n    Full Stack Robotics\n\n› Please RSVP via Eventbrite HERE\n\nThe Internet of Things has begun to emerge, and the Age of Robots has come upon us. What are the technologies that will help make it real? In this talk, we will share our vision of \"Full Stack Robotics\" based on open source software such as Cylon.js, Gobot, and more, with live demonstrations of actual robotic devices.\n\n\"Full Stack Robotics\" consists of:\n\n\nFront-ends & consists Interfaces\nFrameworks & Tools\nIntegrations\nThings\n\n\n\nWe will show a complete application with plenty of live demos of actual devices, along with some of the code that makes it all work. Time to get real about the Robot Evolution!\n\nRon Evans is a software developer who has been active in the free and open source community for over 20 years. As \"Ringleader\" of The Hybrid Group, he helps clients solve some of their most difficult technical and business problems. Ron has been a keynote speaker or presenter at conferences such as Maker Faire, GopherCon, JSConf, RubyConf, FutureRuby, Ignite, L.A. Ruby Conference, Scottish Ruby Conf, and MagmaConf. He was featured in Computerworld Magazine in the article \"Rock Star Coders\" for his popular blog post \"I'd Rather Be A Jazz Programmer\", as well as having written articles for MSNBC, BYTE Magazine, and the Direct Marketing Association. Ron is an active contributor to many open source projects and created the award-winning KidsRuby, free software to help teach Ruby programming to kids.\n\n› Doors will open at 5:30 for a 30-minute networking happy half-hour! The food, beer and drinks are provided by Bellagios and New Relic. The presentation will begin right at 6p.\n\n› Stay tuned for the latest developments and updates on this and upcoming events by joining our Meetup group, New Relic FutureTalks PDX, and following us on Twitter @newrelic.\n\n› FutureTalk is brought to you by New Relic in collaboration with TAO\n  "
+    }
+  },
+  {
+    "name": "Monday Python  (Programmer Peer Mentoring Night)",
+    "venue": "PDX Code Guild",
+    "startTime": "2015-10-12T18:00:00",
+    "endTime": "2015-10-12T21:00:00",
+    "link": "http://calagator.org/events/1250469163",
+    "details": {
+      "address": "2626 Southwest Corbett Avenue",
+      "description": "\n    Join us for an evening of programming!\n\nSave this phone number in case you need directions. (541) 602-6215\n\nCome to learn and/or share your existing knowledge with others. We cover Python, Django, JavaScript, SQL, CSS, HTML and More. Our event is for all levels from beginner to advanced. Come to learn and/or to mentor.\n\nThis week we will do introductions and then pair up mentors and learners and/or work on projects.\n\nBring your laptop, and something you want to learn, try, or build.\n  "
+    }
+  },
+  {
+    "name": "MaptimePDX - Come see the new Mapbox Studio!",
+    "venue": "Portland State University (PSU) - Cramer Hall 413",
+    "startTime": "2015-10-13T15:00:00",
+    "endTime": "2015-10-13T16:00:00",
+    "link": "http://calagator.org/events/1250469116",
+    "details": {
+      "address": "1825 Southwest Broadway",
+      "description": "\n    Cartography will never be the same. Mapbox has just released the latest iteration of Studio and it's making its way to users around the world. We'll be demoing Studio from styling Mapbox sources based on OpenStreetMap to customizing your own data.\n\nWe'll be covering:\n\n\nMap design\nImporting GIS data\nBasic GL technology\nInteracting with your map with Mapbox GL JS\nMobile tools for GL\n\n\n\nLots to cover so RSVP and get there early! Note the new location:\nPortland State University, 1825 SW Broadway, Portland, OR, Cramer Hall Room 413. As always, beginners welcome!\n  "
+    }
+  },
+  {
+    "name": "Highlights of Write The Docs EU",
+    "venue": "New Relic",
+    "startTime": "2015-10-13T18:00:00",
+    "link": "http://calagator.org/events/1250469046",
+    "details": {
+      "address": "111 SW 5th Avenue, Suite 2900",
+      "description": "\n    The Write The Docs EU conference happened in Prague just a few days ago (August 31-September 1). At the meetup we'll talk about some of the highlights and key takeaways from the conference.\n\n\n For more information, see the Write The Docs EU schedule of speakers (I'll edit this announcement with additional details later.)\n  "
+    }
+  },
+  {
+    "name": "I want to work for IDExperts w/Travis Cannon (Product Manager)",
+    "venue": "Forge Portland",
+    "startTime": "2015-10-13T18:00:00",
+    "endTime": "2015-10-13T20:30:00",
+    "link": "http://calagator.org/events/1250469137",
+    "details": {
+      "address": "1410 SW MORRISON ST., SUITE 850",
+      "description": "\n    Can you guess who is our next meetup guest at \"I want to work for _ _ _ _ _ _\"???\nNone other than our very good friend Travis Cannon. Yay!\n\nWe are thrilled to welcome Travis, who is a Lead Product manager at the fast growing IDExperts.\n\nTravis will share his career journey leading up to this position at IDExperts (through a series of practical Q&As). We will then do in-depth research on what IDExperts is all about... their clients, competition, products, value proposition and much, much more!\n\nThe experience and value you will get from this meetup is going to be unlike any other you ever saw... You have my personal guarantee!\n\nOh, as always, this meetup is POWERED BY FREE PIZZA :)\n  "
+    }
+  },
+  {
+    "name": "Lean Coffee",
+    "venue": "Viewpoint Tech Center",
+    "startTime": "2015-10-14T07:30:00",
+    "endTime": "2015-10-14T09:00:00",
+    "link": "http://calagator.org/events/1250469119",
+    "details": {
+      "address": "1510 SE Water Avenue",
+      "description": "\n    Join us for Lean Coffee at Viewpoint Construction Software. Viewpoint is located at the east landing of the Hawthorne Bridge, at 1510 SE Water Ave. Come to the Tech Center on the eastern side of Water Ave.\n\nLean Coffee is a simple, efficient, and fun way to discuss open ended topics in a small group. We’ll tend to focus on agile software development, but welcome any and all topics of interest. Porltand Lean Coffee is always an open, free community event. Some notes from past discussions are available on http://portland.leancoffee.org/\n\nFor more on Lean Coffee, check out http://leancoffee.org/\n  "
+    }
+  },
+  {
+    "name": "October PMI Agile Roundtable",
+    "venue": "Unitus Community Credit Union",
+    "startTime": "2015-10-14T12:00:00",
+    "endTime": "2015-10-14T13:00:00",
+    "link": "http://calagator.org/events/1250469186",
+    "details": {
+      "address": "1300 SW Sixth Ave – 4th Floor Community Room",
+      "description": "\n    The PMI Agile Roundtable provides a forum for exchanging ideas, techniques and real world experiences (good and bad) in managing agile projects. Although sponsored by PMI, all roles and backgrounds are welcome and encouraged to participate / debate. We value the variety of perspectives and levels of experience with agile.\n\nFor October, we will debrief on the PMI Org Agility Conference and the Agile Alliance conference by those who attended. If time permits, we'll select topics from our backlog (or ones added by attendees) to discuss as a group.\n\nNote: 1 PMI PDU can be claimed for attending this event.\n\nThanks to Unitus for their continued support\n  "
+    }
+  },
+  {
+    "name": "Networking Happy Hour with Green House Data",
+    "venue": "Saucebox",
+    "startTime": "2015-10-14T16:30:00",
+    "endTime": "2015-10-14T18:30:00",
+    "link": "http://calagator.org/events/1250469134",
+    "details": {
+      "address": "214 SW Broadway",
+      "description": "\n    Reserve your spot for a complimentary happy hour with Green House Data and fellow members of Portland's technology and business scene. This laid back event will be a chance for us to get to know each other better, talk about projects, and enjoy some food and drinks.\n\nMeet at Saucebox any time between 4:30 and 6:30 and be sure to bring your business cards.\n  "
+    }
+  },
+  {
+    "name": "Let's Talk about AppleTV",
+    "venue": "Plus QA",
+    "startTime": "2015-10-14T18:00:00",
+    "link": "http://calagator.org/events/1250469180",
+    "details": {
+      "address": "1319 SE MLK Blvd, Suite 220",
+      "description": "\n    I got an AppleTV Dev Kit so I thought it'd be good to have this month's meeting based on that. I'll go over what it took to port the app that we did for the WatchKit Workshop a few months ago (Rock, Paper, Scissors, Lizard, Spock... aka RoShamBo) to tvOS. Here's the repo if you wanted to preview it.\n\n\n If you've been working on an AppleTV app and want to share with the group, there will be plenty of time for that as well. I need to double check with my lawyer... but I'll probably bring the device in so anyone who's interested can get some hands-on time with it. I'm also happy to run code on it if you've got something you want to try out. Hope to see you there! Ryan\n  "
+    }
+  },
+  {
+    "name": "Maker Meetup",
+    "venue": "Watershed PDX",
+    "startTime": "2015-10-14T18:00:00",
+    "endTime": "2015-10-14T21:00:00",
+    "link": "http://calagator.org/events/1250469182",
+    "details": {
+      "address": "5040 SE Milwaukie Ave",
+      "description": "\n    Make it here! Have some projects you'd like to work on, but could benefit from a creative atmosphere? Cat and Watershed PDX team up to offer just the space!\n\nWe will supply wifi, and a place to share ideas and collaborate with a community of fellow creators and makers. We'll share tips and tricks, and support your creative endeavors! The goal for the meetup is to support the local creative scene while providing an opportunity for people to build a network with people of varied skills. Makers, crafters, and creators of all ages, skill levels, and backgrounds are encouraged to bring your projects, supplies, and ideas.\n\nFrom sewing to electronics to art projects, this will be an incubator for interesting collaborations. For example, if someone comes in to work on an embroidery project, another could show them how to incorporate conductive thread and LEDs to make that project light up. Tips and tricks that can be shared varied depending on who comes to the event. Things shared at previous events include working with Arduino, programming, sculpting, knitting, hand sewing, misc hobbyist electronics tips from component suppliers to soldering tricks.\n\nAll attendees will need to sign-in with Cat before entering the meetup space. All information will be kept confidential.\n\nBy attending this event you agree that neither Watershed nor myself is liable for any injury you may receive while working on your project, and that you will follow the Code of Conduct.\n  "
+    }
+  },
+  {
+    "name": "Maker Meetup",
+    "venue": "Watershed PDX",
+    "startTime": "2015-10-14T18:00:00",
+    "endTime": "2015-10-14T21:00:00",
+    "link": "http://calagator.org/events/1250469183",
+    "details": {
+      "address": "5040 SE Milwaukie Ave",
+      "description": "\n    Make it here! Have some projects you'd like to work on, but could benefit from a creative atmosphere? Cat and Watershed PDX team up to offer just the space!\n\nWe will supply wifi, and a place to share ideas and collaborate with a community of fellow creators and makers. We'll share tips and tricks, and support your creative endeavors! The goal for the meetup is to support the local creative scene while providing an opportunity for people to build a network with people of varied skills. Makers, crafters, and creators of all ages, skill levels, and backgrounds are encouraged to bring your projects, supplies, and ideas.\n\nFrom sewing to electronics to art projects, this will be an incubator for interesting collaborations. For example, if someone comes in to work on an embroidery project, another could show them how to incorporate conductive thread and LEDs to make that project light up. Tips and tricks that can be shared varied depending on who comes to the event. Things shared at previous events include working with Arduino, programming, sculpting, knitting, hand sewing, misc hobbyist electronics tips from component suppliers to soldering tricks.\n\nAll attendees will need to sign-in with Cat before entering the meetup space. All information will be kept confidential.\n\nBy attending this event you agree that neither Watershed nor myself is liable for any injury you may receive while working on your project, and that you will follow the Code of Conduct.\n  "
+    }
+  },
+  {
+    "name": "Ruby Book Club",
+    "venue": "Renewable Funding",
+    "startTime": "2015-10-14T18:00:00",
+    "endTime": "2015-10-14T19:30:00",
+    "link": "http://calagator.org/events/1250469188",
+    "details": {
+      "address": "400 SW 6th Avenue, Suite 902",
+      "description": "\n    Reading through technical books in a group is a great way to learn. You can stay motivated by reading together; better apply what you are reading by actively communicating it, as well as hearing others perspectives that will help you better understand the book. Even if you're a more experienced developer it's a great way to keep your skill sharp and share your wisdom and experience. If none of that is convincing just come and have fun with fellow ruby developers!\n\nWe are starting a new book Working With Ruby Threads by Jesse Storimer. We will be discussing chapters ('Wrap Your Threads in an Abstraction' - 'How Sidekiq Uses Celluloid').\n\nPlease come having read the chapters and ready to discuss it.\n\nPizza will be provided!\n\nBook Summary\n\nThreading and concurrency are hot topics in the Ruby community.\nWant to join the conversation?\n\nYou've probably heard people around you talking mutexes, race conditions, or the GIL. Do you wonder what the heck they're talking about?\n\nThis book is a gentle introduction to these concepts and will give you the knowledge you need to become your teams resident concurrency expert.\n  "
+    }
+  },
+  {
+    "name": "IPFS Enthusiasts",
+    "venue": "Nedspace Morrison",
+    "startTime": "2015-10-14T18:30:00",
+    "endTime": "2015-10-14T21:00:00",
+    "link": "http://calagator.org/events/1250469161",
+    "details": {
+      "address": "619 SW 11th, Suite 250",
+      "description": "\n    The inaugural meeting of the Portland Inter-planetary File System (IPFS) Enthusiasts. IPFS (http://ipfs.io/) is a \"new peer-to-peer hypermedia protocol\" that has great promise for creating an open, distributed web.\n\nLet's meet up, talk and learn about IPFS, and do some coding!\n  "
+    }
+  },
+  {
+    "name": "Science on Tap - Dawn Mission",
+    "venue": "Kiggins Theatre",
+    "startTime": "2015-10-14T19:00:00",
+    "endTime": "2015-10-14T21:00:00",
+    "link": "http://calagator.org/events/1250469071",
+    "details": {
+      "address": "1011 Main Street, Vancouver, WA",
+      "description": "\n    Science on Tap is a science lecture series where you can sit back, enjoy a pint, and laugh while you learn. You don’t have to be a science geek to have fun—all you need is a thirst for knowledge!\n\nEvent Description:\n\nThe ambitious and exciting Dawn mission is one of NASA’s most remarkable ventures into the solar system. Launched in September 2007, this mission is to explore the two most massive and uncharted residents of the main asteroid belt in our solar system: Vesta and Ceres.\n\nAt this Science on Tap, Greg Cermak, a NASA Solar System Ambassador and former Astrobiology instructor at WSU, will describe the Dawn mission and NASA’s commitment to exploring the Solar System.\n\n\n\nScience on Tap at the Kiggins is produced in partnership with Washington State University Vancouver.\n\n\n\n*Science on Tap is largely supported by money collected at the door. If $10 is a hardship for you, please come anyway and donate what you can.\n\nCost: $8 online advance tickets, $10* suggested cover at the door.\n  "
+    }
+  },
+  {
+    "name": "Nike Tech Talks",
+    "venue": "Nike Decathlon Club Cafe",
+    "startTime": "2015-10-15T16:00:00",
+    "endTime": "2015-10-15T19:30:00",
+    "link": "http://calagator.org/events/1250469159",
+    "details": {
+      "address": "15350 SW Koll Parkway",
+      "description": "\n    Clear your calendar! Nike Consumer Digital Tech is hosting tech talks for the PDX tech community on October 15th. We're bringing great speakers to the Nike campus and there will be time to network and enjoy snacks and drinks.\n\nHow Augmented Reality Will Change Your Life, Relationships, and the Planet\nTodd Revolt / Director of Strategic Alliances, Meta / @sfrevo\n\nTopic/Speaker Coming Soon!\n\nRSVP and learn more at: https://niketechtalks-oct2015.splashthat.com!\n  "
+    }
+  },
+  {
+    "name": "Navigate IT",
+    "venue": "eBay Community Lounge",
+    "startTime": "2015-10-15T18:00:00",
+    "endTime": "2015-10-15T20:00:00",
+    "link": "http://calagator.org/events/1250469151",
+    "details": {
+      "address": "1400 SW 5th Avenue, 3rd Floor",
+      "description": "\n    Mara Zepeda is the co-founder and CEO of Switchboard, an online community building platform often described as a non-creepy Craigslist. She will share some insights into how the feminine approach to work is different than the masculine approach (and how that's okay).\n\nYou'll leave feeling inspired to embrace your feminine strengths!\n  "
+    }
+  },
+  {
+    "name": "PDXPUG: October meeting",
+    "venue": "Iovation",
+    "startTime": "2015-10-15T18:00:00",
+    "endTime": "2015-10-15T20:00:00",
+    "link": "http://calagator.org/events/1250469156",
+    "details": {
+      "address": "111 SW 5th",
+      "description": "\n    Portland Postgres Users Group\nSee website for details.\n  "
+    }
+  },
+  {
+    "name": "Mara Zepeda CE0 of Switchboard on the Feminine Approach",
+    "venue": "eBay Community Lounge",
+    "startTime": "2015-10-15T18:00:00",
+    "link": "http://calagator.org/events/1250469179",
+    "details": {
+      "address": "1400 SW 5th Ave., 3rd Floor",
+      "description": "\n    Mara Zepeda is the co-founder and CEO of Switchboard, an online community building platform often described as a non-creepy Craigslist. She will share some insights into how the feminine approach to work is different than the masculine approach (and how that's okay).\n\n\n You'll leave feeling inspired to embrace your feminine strengths! \n\nMara has spent her entire life working in organizations and higher education at places like Harvard University, and the College of Physicians of Philadelphia; as a reporter with National Public Radio; and as a board member of arts organizations, neighborhood associations, and her alma mater, Reed College.  Mara graduated with honors from Columbia's Graduate School of Journalism with a focus on digital media, and received her B.A. in Russian from Reed. She grew up in Santa Fe, New Mexico and loves meeting new people. So get in touch.  \n\nEvent Schedule 6:00-6:30 food and networking 6:30-7:15 presentation 7:15-8:00 discussion \n\nWhat your peers are saying about Navigate IT “Best 2 hours I have spent all week.” – Strength’s Lab participant\n  "
+    }
+  },
+  {
+    "name": "BSidesPDX Security Conference",
+    "venue": "Oregon Convention Center",
+    "startTime": "2015-10-16T09:00:00",
+    "endTime": "2015-10-17T17:00:00",
+    "link": "http://calagator.org/events/1250469175",
+    "details": {
+      "address": "777 NE Martin Luther King Jr. Blvd.",
+      "description": "\n    BSides PDX is a gathering of the most interesting infosec minds in Portland and the Pacific Northwest! Our passion about all things security has driven attendance from other parts of the country. Our goal is to provide an open environment for the InfoSec community to engage in conversations, learn from each other and promote knowledge sharing and collaboration. The Portland and greater Northwest information security community spans a broad spectrum of participation from CISOs, Fortune 100 company security experts, small business system admins, to independent security researchers.\n\nBSidesPDX 2015 is scheduled for Friday and Saturday, October 16th and 17th.\n\nRegister Now!! : http://bsidespdx2015.eventzilla.net/\n\nTo get involved, join the BSidesPDX mailing list : https://groups.google.com/forum/#!forum/bsidespdx\n  "
+    }
+  },
+  {
+    "name": "Ruby brightnight",
+    "venue": "Epicodus",
+    "startTime": "2015-10-19T18:00:00",
+    "endTime": "2015-10-19T22:00:00",
+    "link": "http://calagator.org/events/1250468801",
+    "details": {
+      "address": "208 SW 5th Ave",
+      "description": "\n    Break into small teams! Build something awesome! Share the results!\n\nAt brightnight, we will start with a challenge, break into small groups, then create and code our ideas into existence!  We will take the last 30 or so minutes of the night to show and tell.  All skill levels are welcome. We'll code in Ruby but those who know other languages are welcome as well.\n\nCome join us to enjoy some creative coding time where we all can learn from each other, try out wacky ideas and cultivate our skills in a fun, low-pressure environment.\n\nBring Computers to work on if you prefer\n  "
+    }
+  },
+  {
+    "name": "NewTech PDX",
+    "venue": "Mercy Corps",
+    "startTime": "2015-10-19T18:00:00",
+    "endTime": "2015-10-19T20:30:00",
+    "link": "http://calagator.org/events/1250468898",
+    "details": {
+      "address": "45 SW Ankeny Street",
+      "description": "\n    Join us for NewTech PDX on the 3rd Monday of nearly every month.  Portland has one of the most vibrant tech communities in the country, and the more we support our tech ecosystem, the more we'll all experience and create together!\n\nJoin us to learn about the cool and amazing technologies being developed by Portland companies. You can arrive early (as early as 5:30) and network. You can leave a little late (as late as 8:30) and network some more. Then follow us over to the after-party!\n\nEvent volunteers are welcome! Let us know if you'd like to volunteer.\n\nEntry to the meetup is $10 online, or $20 at the door.\n\nAgenda\n6:00pm - Doors Open / Buffet / Drinks / Get to know your community\n7:00pm - Event Begins!\n\n\nCommunity Announcements: Events, Jobs, etc. (20 seconds/each)\nDemonstrations (5 minutes/each)\n\n\n\n8:00pm - After-Party at the Thirsty Lion (71 SW 2nd Ave [at SW Ash Street])\n  "
+    }
+  },
+  {
+    "name": "Monday Python  (Programmer Peer Mentoring Night)",
+    "venue": "PDX Code Guild",
+    "startTime": "2015-10-19T18:00:00",
+    "endTime": "2015-10-19T21:00:00",
+    "link": "http://calagator.org/events/1250469164",
+    "details": {
+      "address": "2626 Southwest Corbett Avenue",
+      "description": "\n    Join us for an evening of programming!\n\nSave this phone number in case you need directions. (541) 602-6215\n\nCome to learn and/or share your existing knowledge with others. We cover Python, Django, JavaScript, SQL, CSS, HTML and More. Our event is for all levels from beginner to advanced. Come to learn and/or to mentor.\n\nThis week we will do introductions and then pair up mentors and learners and/or work on projects.\n\nBring your laptop, and something you want to learn, try, or build.\n  "
+    }
+  },
+  {
+    "name": "PDX Women in Tech (PDXWIT) Happy Hour Networking Event",
+    "venue": "Vacasa",
+    "startTime": "2015-10-20T16:30:00",
+    "endTime": "2015-10-20T18:30:00",
+    "link": "http://calagator.org/events/1250469153",
+    "details": {
+      "address": "1737 NE Alberta St. Suite 201",
+      "description": "\n    Join us for happy hour at Vacasa! Make sure you say hi to our spotlight Candace Camarillo, Senior Developer at Vacasa! Read our October newsletter to learn more about Candace.In addition to networking, this month we will have a series of \"in the style of TED\" short talks featuring guest speakers Melody Dawn, Nechama Katan, Deepthi Sid and Kristina King. Topics will include how to prioritize, how to learn, your 6 year old is learning to code so you can too, and what does it mean to create an online community.\n\nAs PDXWIT is growing, we've been given the opportunity to have our very own t-shirts! We will be kicking off a t-shirt campaign ending October 21st. More details can be found here: tspr.ng/5AMy9tsc. Hurry up and reserve your awesome t-shirt now!\n\nPDX Women in Tech exists to celebrate professional women in the Portland-metro area who work with, manage, lead or have an interest in technology. Whether you are developing event-driven, non-blocking applications in node.js or setting technology strategy for a Fortune 500 company - or anything in between - come join us!\n  "
+    }
+  },
+  {
+    "name": "Portland Java User Group (PJUG)",
+    "venue": "New Relic",
+    "startTime": "2015-10-20T18:30:00",
+    "endTime": "2015-10-20T20:30:00",
+    "link": "http://calagator.org/events/1250469054",
+    "details": {
+      "address": "111 SW 5th Avenue, Suite 2900",
+      "description": "\n    Hazelcast: Open Source Java Based In Memory Computing\n\nTalip Öztürk, founder of Hazelcast, will give a technical deep dive on the open source Java based in-memory computing platform. Hazelcast 3.5, the most recent version of the leading in-memory data grid, was just released in June. Talip will discuss some of the new features in the release and have plenty of time for Q&A afterward.\n\nSpeaker\n\nTalip Öztürk is the founder of Hazelcast, a Java-based, open-source in memory computing platform. In 2003, he became fascinated with Jini (Apache River) and developed an implementation of JavaSpaces. In 2008, his passion for distributed programming led him to develop Hazelcast, prior to which he was the director of technology at Zaman Media Group. Öztürk holds a BA from the Middle East Technical University, Turkey.\n  "
+    }
+  },
+  {
+    "name": "Write a Compiler in 24hrs (ASTS, w/ FParsec & compiling IL) with Phil Trelford",
+    "startTime": "2015-10-20T18:30:00",
+    "link": "http://calagator.org/events/1250469128",
+    "details": {
+      "description": "\n    Join us for this special x-tra meetup this month to hear special guest Phil Trelford from across the pond speak on...\n\n\n Compiler writers are often seen as the stuff of myth and legend. In this session we'll step behind the proverbial curtain and reveal how compilers actually work. Expect plenty of live code samples, primarily in F#, covering language design and parsing, all-the-way through to emitting code. This session is aimed as a primer for those interested in writing an external DSL, general purpose language or just understanding how these things work.\n  "
+    }
+  },
+  {
+    "name": "Portland Linux/Unix Group Advanced Topics",
+    "venue": "Free Geek",
+    "startTime": "2015-10-20T19:00:00",
+    "endTime": "2015-10-20T21:00:00",
+    "link": "http://calagator.org/events/1250469093",
+    "details": {
+      "address": "1731 SE 10th Avenue",
+      "description": "\n    Portland Linux/Unix Group Advanced Topics\n\nSubject to be announced!\n  "
+    }
+  }
+]

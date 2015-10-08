@@ -1,0 +1,366 @@
+[
+    {
+        "name": "Delight Conference",
+        "link": "http://calagator.org/events/1250468562",
+        "startTime": "2015-10-05T08:30:00",
+        "endTime": "2015-10-07T17:30:00",
+        "location": "Portland Art Museum: Kridel Grand Ballroom"
+    },
+    {
+        "name": "Portland 1 Million Cups",
+        "link": "http://calagator.org/events/1250469051",
+        "startTime": "2015-10-07T08:30:00",
+        "location": "Deskhub"
+    },
+    {
+        "name": "Money on a Mission",
+        "link": "http://calagator.org/events/1250469061",
+        "startTime": "2015-10-07T16:30:00",
+        "endTime": "2015-10-07T19:30:00",
+        "location": "The Evergreen -"
+    },
+    {
+        "name": "Homebrew Website Club PDX",
+        "link": "http://calagator.org/events/1250469097",
+        "startTime": "2015-10-07T17:30:00",
+        "endTime": "2015-10-07T19:30:00",
+        "location": "Beulahland"
+    },
+    {
+        "name": "ChickTech's Scrum Workshop",
+        "link": "http://calagator.org/events/1250469136",
+        "startTime": "2015-10-07T17:30:00",
+        "endTime": "2015-10-07T20:30:00",
+        "location": "DeskHub"
+    },
+    {
+        "name": "PDXRust Monthly Meeting",
+        "link": "http://calagator.org/events/1250469103",
+        "startTime": "2015-10-07T18:00:00",
+        "endTime": "2015-10-07T20:00:00",
+        "location": "Mozilla"
+    },
+    {
+        "name": "Ruby Book Club",
+        "link": "http://calagator.org/events/1250469143",
+        "startTime": "2015-10-07T18:00:00",
+        "endTime": "2015-10-07T19:30:00",
+        "location": "Renewable Funding"
+    },
+    {
+        "name": "Maker Meetup",
+        "link": "http://calagator.org/events/1250469181",
+        "startTime": "2015-10-07T18:00:00",
+        "endTime": "2015-10-07T21:00:00",
+        "location": "Watershed PDX"
+    },
+    {
+        "name": "CHIFOO Meeting: Games that Change Us (For the Better!)",
+        "link": "http://calagator.org/events/1250467637",
+        "startTime": "2015-10-07T19:00:00",
+        "endTime": "2015-10-07T20:30:00",
+        "location": "eBay Community Lounge"
+    },
+    {
+        "name": "OWASP Chapter Planning Meeting",
+        "link": "http://calagator.org/events/1250469114",
+        "startTime": "2015-10-07T19:00:00",
+        "endTime": "2015-10-07T21:00:00",
+        "location": "Mama Mia Trattoria "
+    },
+    {
+        "name": "Ruby/Rails Coworking SE",
+        "link": "http://calagator.org/events/1250469176",
+        "startTime": "2015-10-08T08:30:00",
+        "endTime": "2015-10-08T12:30:00",
+        "location": "Crema Bakery & Cafe"
+    },
+    {
+        "name": "Pitch Perfect Hillsboro: Practice Pitch & Startup Mixer",
+        "link": "http://calagator.org/events/1250469162",
+        "startTime": "2015-10-08T16:30:00",
+        "endTime": "2015-10-08T18:30:00",
+        "location": "Hillsboro Chamber of Commerce"
+    },
+    {
+        "name": "Epicodus Alumni: Freelancing Panel",
+        "link": "http://calagator.org/events/1250469152",
+        "startTime": "2015-10-08T17:00:00",
+        "endTime": "2015-10-08T18:30:00",
+        "location": "Epicodus"
+    },
+    {
+        "name": "TiE Oregon Pitch Club Featuring Brent Hieggelke",
+        "link": "http://calagator.org/events/1250469115",
+        "startTime": "2015-10-08T17:30:00",
+        "endTime": "2015-10-08T20:30:00",
+        "location": "DeskHub"
+    },
+    {
+        "name": "Haskell Office Hours",
+        "link": "http://calagator.org/events/1250469177",
+        "startTime": "2015-10-08T17:30:00",
+        "location": "Galois Inc"
+    },
+    {
+        "name": "ProductTank October",
+        "link": "http://calagator.org/events/1250469147",
+        "startTime": "2015-10-08T18:00:00",
+        "endTime": "2015-10-08T20:00:00",
+        "location": "Jama Software (New Office)"
+    },
+    {
+        "name": "DesignSpeaks Presents: Peak Performance",
+        "link": "http://calagator.org/events/1250469155",
+        "startTime": "2015-10-08T18:00:00",
+        "endTime": "2015-10-08T21:00:00",
+        "location": "52 Limited"
+    },
+    {
+        "name": "Techies on Bikes - Eat, Drink, Bike!",
+        "link": "http://calagator.org/events/1250469157",
+        "startTime": "2015-10-08T18:30:00",
+        "endTime": "2015-10-08T21:00:00",
+        "location": "Velo Cult"
+    },
+    {
+        "name": "Portland Perl Mongers - ORM Wars",
+        "link": "http://calagator.org/events/1250469149",
+        "startTime": "2015-10-08T18:53:00",
+        "endTime": "2015-10-08T19:53:00",
+        "location": "Free Geek"
+    },
+    {
+        "name": "TAO's Battle of the Tech Bands",
+        "link": "http://calagator.org/events/1250469066",
+        "startTime": "2015-10-08T19:00:00",
+        "endTime": "2015-10-08T23:00:00",
+        "location": "Mississippi Studios"
+    },
+    {
+        "name": "How to go from Airport Baggage Agent to Professional Developer in Weeks (Not Years)",
+        "link": "http://calagator.org/events/1250469109",
+        "startTime": "2015-10-08T19:00:00",
+        "endTime": "2015-10-08T20:30:00",
+        "location": "Code Fellows PDX"
+    },
+    {
+        "name": "CTRL-H Open House",
+        "link": "http://calagator.org/events/1250469160",
+        "startTime": "2015-10-08T19:00:00",
+        "location": "CTRLH - PDX Hackerspace"
+    },
+    {
+        "name": "Tech Talk, The Tech Academy",
+        "link": "http://calagator.org/events/1250469088",
+        "startTime": "2015-10-09T13:30:00",
+        "endTime": "2015-10-09T14:30:00",
+        "location": "The Tech Academy"
+    },
+    {
+        "name": "PyDX Community Python Conference",
+        "link": "http://calagator.org/events/1250468982",
+        "startTime": "2015-10-10T08:30:00",
+        "endTime": "2015-10-11T16:30:00",
+        "location": "White Stag Block (University of Oregon)"
+    },
+    {
+        "name": "CAT BarCamp",
+        "link": "http://calagator.org/events/1250469052",
+        "startTime": "2015-10-10T08:30:00",
+        "endTime": "2015-10-10T18:00:00",
+        "location": "Portland State University Engineering Building"
+    },
+    {
+        "name": "Portland Startup Summit III: The Social Good",
+        "link": "http://calagator.org/events/1250468757",
+        "startTime": "2015-10-10T11:00:00",
+        "endTime": "2015-10-10T19:00:00",
+        "location": "Holocene"
+    },
+    {
+        "name": "Pacific NW Software Quality Conference",
+        "link": "http://calagator.org/events/1250469113",
+        "startTime": "2015-10-12T08:00:00",
+        "endTime": "2015-10-14T18:00:00",
+        "location": "World Trade Center"
+    },
+    {
+        "name": "FutureTalk with Ron Evans + Happy Half-Hour",
+        "link": "http://calagator.org/events/1250469141",
+        "startTime": "2015-10-12T18:00:00",
+        "endTime": "2015-10-12T19:00:00",
+        "location": "New Relic"
+    },
+    {
+        "name": "Monday Python  (Programmer Peer Mentoring Night)",
+        "link": "http://calagator.org/events/1250469163",
+        "startTime": "2015-10-12T18:00:00",
+        "endTime": "2015-10-12T21:00:00",
+        "location": "PDX Code Guild"
+    },
+    {
+        "name": "MaptimePDX - Come see the new Mapbox Studio!",
+        "link": "http://calagator.org/events/1250469116",
+        "startTime": "2015-10-13T15:00:00",
+        "endTime": "2015-10-13T16:00:00",
+        "location": "Portland State University (PSU) - Cramer Hall 413"
+    },
+    {
+        "name": "Highlights of Write The Docs EU",
+        "link": "http://calagator.org/events/1250469046",
+        "startTime": "2015-10-13T18:00:00",
+        "location": "New Relic"
+    },
+    {
+        "name": "I want to work for IDExperts w/Travis Cannon (Product Manager)",
+        "link": "http://calagator.org/events/1250469137",
+        "startTime": "2015-10-13T18:00:00",
+        "endTime": "2015-10-13T20:30:00",
+        "location": "Forge Portland"
+    },
+    {
+        "name": "Lean Coffee",
+        "link": "http://calagator.org/events/1250469119",
+        "startTime": "2015-10-14T07:30:00",
+        "endTime": "2015-10-14T09:00:00",
+        "location": "Viewpoint Tech Center"
+    },
+    {
+        "name": "October PMI Agile Roundtable",
+        "link": "http://calagator.org/events/1250469186",
+        "startTime": "2015-10-14T12:00:00",
+        "endTime": "2015-10-14T13:00:00",
+        "location": "Unitus Community Credit Union"
+    },
+    {
+        "name": "Networking Happy Hour with Green House Data",
+        "link": "http://calagator.org/events/1250469134",
+        "startTime": "2015-10-14T16:30:00",
+        "endTime": "2015-10-14T18:30:00",
+        "location": "Saucebox"
+    },
+    {
+        "name": "Let's Talk about AppleTV",
+        "link": "http://calagator.org/events/1250469180",
+        "startTime": "2015-10-14T18:00:00",
+        "location": "Plus QA"
+    },
+    {
+        "name": "Maker Meetup",
+        "link": "http://calagator.org/events/1250469182",
+        "startTime": "2015-10-14T18:00:00",
+        "endTime": "2015-10-14T21:00:00",
+        "location": "Watershed PDX"
+    },
+    {
+        "name": "Maker Meetup",
+        "link": "http://calagator.org/events/1250469183",
+        "startTime": "2015-10-14T18:00:00",
+        "endTime": "2015-10-14T21:00:00",
+        "location": "Watershed PDX"
+    },
+    {
+        "name": "Ruby Book Club",
+        "link": "http://calagator.org/events/1250469188",
+        "startTime": "2015-10-14T18:00:00",
+        "endTime": "2015-10-14T19:30:00",
+        "location": "Renewable Funding"
+    },
+    {
+        "name": "IPFS Enthusiasts",
+        "link": "http://calagator.org/events/1250469161",
+        "startTime": "2015-10-14T18:30:00",
+        "endTime": "2015-10-14T21:00:00",
+        "location": "Nedspace Morrison"
+    },
+    {
+        "name": "Science on Tap - Dawn Mission",
+        "link": "http://calagator.org/events/1250469071",
+        "startTime": "2015-10-14T19:00:00",
+        "endTime": "2015-10-14T21:00:00",
+        "location": "Kiggins Theatre"
+    },
+    {
+        "name": "Nike Tech Talks",
+        "link": "http://calagator.org/events/1250469159",
+        "startTime": "2015-10-15T16:00:00",
+        "endTime": "2015-10-15T19:30:00",
+        "location": "Nike Decathlon Club Cafe"
+    },
+    {
+        "name": "Navigate IT",
+        "link": "http://calagator.org/events/1250469151",
+        "startTime": "2015-10-15T18:00:00",
+        "endTime": "2015-10-15T20:00:00",
+        "location": "eBay Community Lounge"
+    },
+    {
+        "name": "PDXPUG: October meeting",
+        "link": "http://calagator.org/events/1250469156",
+        "startTime": "2015-10-15T18:00:00",
+        "endTime": "2015-10-15T20:00:00",
+        "location": "Iovation"
+    },
+    {
+        "name": "Mara Zepeda CE0 of Switchboard on the Feminine Approach",
+        "link": "http://calagator.org/events/1250469179",
+        "startTime": "2015-10-15T18:00:00",
+        "location": "eBay Community Lounge"
+    },
+    {
+        "name": "BSidesPDX Security Conference",
+        "link": "http://calagator.org/events/1250469175",
+        "startTime": "2015-10-16T09:00:00",
+        "endTime": "2015-10-17T17:00:00",
+        "location": "Oregon Convention Center"
+    },
+    {
+        "name": "Ruby brightnight",
+        "link": "http://calagator.org/events/1250468801",
+        "startTime": "2015-10-19T18:00:00",
+        "endTime": "2015-10-19T22:00:00",
+        "location": "Epicodus"
+    },
+    {
+        "name": "NewTech PDX",
+        "link": "http://calagator.org/events/1250468898",
+        "startTime": "2015-10-19T18:00:00",
+        "endTime": "2015-10-19T20:30:00",
+        "location": "Mercy Corps"
+    },
+    {
+        "name": "Monday Python  (Programmer Peer Mentoring Night)",
+        "link": "http://calagator.org/events/1250469164",
+        "startTime": "2015-10-19T18:00:00",
+        "endTime": "2015-10-19T21:00:00",
+        "location": "PDX Code Guild"
+    },
+    {
+        "name": "PDX Women in Tech (PDXWIT) Happy Hour Networking Event",
+        "link": "http://calagator.org/events/1250469153",
+        "startTime": "2015-10-20T16:30:00",
+        "endTime": "2015-10-20T18:30:00",
+        "location": "Vacasa"
+    },
+    {
+        "name": "Portland Java User Group (PJUG)",
+        "link": "http://calagator.org/events/1250469054",
+        "startTime": "2015-10-20T18:30:00",
+        "endTime": "2015-10-20T20:30:00",
+        "location": "New Relic"
+    },
+    {
+        "name": "Write a Compiler in 24hrs (ASTS, w/ FParsec & compiling IL) with Phil Trelford",
+        "link": "http://calagator.org/events/1250469128",
+        "startTime": "2015-10-20T18:30:00",
+        "location": ""
+    },
+    {
+        "name": "Portland Linux/Unix Group Advanced Topics",
+        "link": "http://calagator.org/events/1250469093",
+        "startTime": "2015-10-20T19:00:00",
+        "endTime": "2015-10-20T21:00:00",
+        "location": "Free Geek"
+    }
+]
