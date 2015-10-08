@@ -43,7 +43,7 @@ a {
 }
 
 a:hover {
-  color: lighten(pink, 20%);
+  color: #FFCC6E;
   text-decoration:none;
 
 }
@@ -78,6 +78,29 @@ a:hover {
 
 .jumbotron {
   margin-top: 20px;
+  background: rgba(255, 255, 255, 0.9);
+}
+
+.jumbotron-map {
+  padding-top:20px;
+  width:800px;
+  height:600px;
+  background: rgba(255, 255, 255, 0.7);
+}
+
+.jumbotron-event {
+  padding-top:20px;
+  float:right;
+  width:300px;
+  height:600px;
+  margin-top: 20px;
+  background: rgba(255, 255, 255, 0.7);
+}
+
+.title {
+  text-align: center;
+  font-family: 'Ubuntu', sans-serif;
+
 }
 
 #slide1 {
