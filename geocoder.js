@@ -14,8 +14,6 @@ fs.readFile('scrape-results/results2.json', function(err, data) {
   }
 })
 
-
-// Using callback
-// geocoder.geocode('1731 SE 10th Avenue portland', function(err, res) {
-//     console.log(res);
-// });
+geocoder.geocode('1731 SE 10th Avenue portland', function(err, res) {
+    console.log(res);
+});
