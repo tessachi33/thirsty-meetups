@@ -48,10 +48,6 @@ a:hover {
     background-color: lighten (pink, 20%)
   }
 
-.main{
-  margin-top: 30px;
-}
-
 .slide{
   background-attachment: fixed;
   width: 100%;
@@ -73,8 +69,12 @@ a:hover {
   background-repeat:no-repeat;
 }
 
+.jumbotron {
+  margin-top: 20px;
+}
+
 #slide1 {
-  background-image: url("../img/slide1/wood2.jpg")
+  background-image: url("../img/slide1/portland.jpeg")
 }
 
 .slide-1-logo{
@@ -87,10 +87,20 @@ a:hover {
 }
 
 #slide3 {
-  background-image: url("../img/slide3/wood2.jpg")
+  background: url("../img/slide3/hood.jpg") no-repeat center center fixed;
+}
 
+img {
+  max-width: 100%;
 }
 
 #slide4 {
   background-color:#401910;
+}
+
+.about {
+  width: 200px;
+  height: 100px;
+  background-color: #401910;
+  opacity: .5;
 }
